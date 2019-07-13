@@ -1,0 +1,10 @@
+id;permission
+1;android.permission.WRITE_USER_DICTIONARY
+2;android.permission.WRITE_SYNC_SETTINGS
+3;android.permission.WRITE_SOCIAL_STREAM
+4;android.permission.WRITE_SMS
+5;android.permission.WRITE_SETTINGS
+6;android.permission.WRITE_SECURE_SETTINGS
+7;android.permission.WRITE_PROFILE
+8;com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+9;android.permission.WRITE_GSERVICES
